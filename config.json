@@ -1,0 +1,5 @@
+{
+  "main": {
+    "role_arn": "arn:aws:iam::XXX:YYY"
+  }
+}
