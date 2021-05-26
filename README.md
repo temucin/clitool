@@ -27,7 +27,7 @@ Pass in "help" as an argument to see the list of commands.
 
 To run the tool in interactive mode, pass in the "-i" flag. 
 
-`canopycli -i`
+`clitool -i`
 
 ## Developing a Command
 
