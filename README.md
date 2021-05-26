@@ -18,7 +18,7 @@ To use the above command you need to init the cli as a Go module named  "clitool
 Simply write the command and its flag arguments after the executable to execute the command
 
 `./clitool kssh -t green -a Frontend -e Dev`
-`go run canopycli kssh -t green -a Frontend -e Dev`
+`go run clitool kssh -t green -a Frontend -e Dev`
 `clitool> kssh -t green -a Frontend -e Dev`
 
 Pass in "help" as an argument to see the list of commands.

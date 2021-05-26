@@ -34,7 +34,7 @@ func main() {
 		fmt.Println("--- INTERACTIVE MODE ---") //TODO(Print something more awesome and lulz worthy)
 
 		rl, err := readline.NewEx(&readline.Config{
-			Prompt:      "\033[34mcanopycli>\033[0m ",
+			Prompt:      "\033[34mclitool>\033[0m ",
 			HistoryFile: "/tmp/readline.tmp",
 			EOFPrompt:   "exit",
 		})
